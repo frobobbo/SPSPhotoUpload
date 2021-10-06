@@ -1,0 +1,7 @@
+{
+  "name": "SPSPhotoUpload",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
